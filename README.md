@@ -1,1 +1,39 @@
-# MedicalReportGeneration
+# Medical_Report_Generation Experiments
+
+## 1.Multimodal Recurrent Model With Attention For Automated Radiology Report Generation
+Ver_HIT:https://github.com/wangleihitcs/MedicalReportGeneration
+
+Ver_Xue:https://github.com/tengfeixue-victor/Medical-Report-Generation
+
+## 2.使用Jupyter Notebook版本的几个
+jupyter_1. 生成impression
+
+博客：https://towardsdatascience.com/medical-image-captioning-on-chest-x-rays-a43561a6871d
+
+代码仓库：https://github.com/ashishthomaschempolil/Medical-Image-Captioning-on-Chest-X-rays
+
+jupyter_2. 生成finding
+
+博客：https://medium.com/analytics-vidhya/medical-report-generation-using-deep-learning-87b50096ead0#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6Ijg1ODI4YzU5Mjg0YTY5YjU0YjI3NDgzZTQ4N2MzYmQ0NmNkMmEyYjMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJuYmYiOjE2MzYxMTY1MzIsImF1ZCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjEwOTI5MzE0MjAwMTA4NTQxNzk4NCIsImVtYWlsIjoiY2hlbndlaXBlbmcwNzAzQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhenAiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJuYW1lIjoiV2VpcGVuZyBDaGVuIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hLS9BT2gxNEdpMDU1ZjJreFhpcHZFMGNLQlBVS0JZZlpXTm9MMnI5bDJTSmY1cT1zOTYtYyIsImdpdmVuX25hbWUiOiJXZWlwZW5nIiwiZmFtaWx5X25hbWUiOiJDaGVuIiwiaWF0IjoxNjM2MTE2ODMyLCJleHAiOjE2MzYxMjA0MzIsImp0aSI6ImJlMGE2N2JhNjUwMjViNWY4MzIzNTFjZmYxMGJjYjdjNDAzOGM1Y2IifQ.U6PScEWwgaAQaQIIfH_Rqj829hVGzNHGKJt9rVts7ms9oY4XETxRNJYjc4kG837_FcONdPCLgh31-yjJASXYJRMPUEjWM0bqWRKIlMuMsFcxOqTkND83IMTZ-rqiGw7qI07f7IBzZbNZ4rKE-9yCBALi_asioG0ystvFlNXOLKRC-rVUc_Z2a9yGbhsvaHberha2yjMOKNX0izAmHUA9wtqLQkl-1r-gONi_ZkRCQk7L7n2jwMkkth5YnVEGiipACc8sSTvDILvCnAMMd77QkZWE-g5qQ8W6iPMg6oJgoxxDP_mdKizp6h8NfaypO8pjc23XaahY-JGR7huMAFjnWQ
+
+代码仓库：https://github.com/Vinithavn/MachineLearning/tree/master/Projects/Medical%20Report%20Generation%20Using%20Deeplearning
+
+**(jupyter_3和jupyter_4与上面的类似)**
+
+3.使用Transformer做image caption的
+
+博客：https://www.analyticsvidhya.com/blog/2021/01/implementation-of-attention-mechanism-for-caption-generation-on-transformers-using-tensorflow/
+
+代码仓库：https://github.com/tanishqgautam/Image-Captioning
+
+## 3.Adaptive Attention
+1. jupyter notebook
+
+2. yufengm版本
+
+代码仓库：https://github.com/yufengm/Adaptive
+
+3. fawazsammani版本
+
+代码仓库：https://github.com/fawazsammani/knowing-when-to-look-adaptive-attention
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9ec85b70-e3b7-474b-8826-df09e58a55f2" name="473旧服务器" url="http:///">
+        <fileTransfer accessType="SFTP" host="125.223.114.225" port="22" sshConfigId="921adce3-3950-4523-b157-0ca0378f92a9" sshConfig="vpeng@125.223.114.225:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
